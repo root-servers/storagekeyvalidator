@@ -2,8 +2,10 @@
 
 @using System.Data;
 
-    <div class="container4" style="justify-content: center">
-        <table class="table table-bordered">
+<div style="position:absolute;top:10%">
+    <h2>The extension validated all the function app storage keys and below is the result</h2>
+    <div class="container4 centered" style="justify-content: center">
+        <table class="table table-bordered table-">
             <thead>
                 <tr>
                     @foreach (DataColumn col in Model.Columns)
@@ -18,10 +20,11 @@
                     <tr>
                         @foreach (DataColumn col in Model.Columns)
                         {
-                            <td>@row[col.ColumnName]</td>
+                            <td>@Html.Raw(@row[col.ColumnName])</td>
                         }
                     </tr>
                 }
             </tbody>
         </table>
-        </div>
+    </div>
+</div>
