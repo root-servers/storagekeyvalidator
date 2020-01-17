@@ -80,3 +80,4 @@ C:\dataall\projects\siteextensions\storagekeyvalidator\storagekeyvalidator\bin\M
 C:\dataall\projects\siteextensions\storagekeyvalidator\storagekeyvalidator\bin\Microsoft.Azure.KeyVault.Core.xml
 C:\dataall\projects\siteextensions\storagekeyvalidator\storagekeyvalidator\bin\Microsoft.WindowsAzure.Storage.pdb
 C:\dataall\projects\siteextensions\storagekeyvalidator\storagekeyvalidator\bin\Microsoft.WindowsAzure.Storage.xml
+C:\dataall\projects\siteextensions\storagekeyvalidator\storagekeyvalidator\obj\Debug\storagekeyvalidator.csprojAssemblyReference.cache
