@@ -75,4 +75,8 @@ C:\dataall\projects\siteextensions\storagekeyvalidator\storagekeyvalidator\bin\M
 C:\dataall\projects\siteextensions\storagekeyvalidator\storagekeyvalidator\obj\Debug\storagekeyvalidator.csproj.CopyComplete
 C:\dataall\projects\siteextensions\storagekeyvalidator\storagekeyvalidator\obj\Debug\storagekeyvalidator.dll
 C:\dataall\projects\siteextensions\storagekeyvalidator\storagekeyvalidator\obj\Debug\storagekeyvalidator.pdb
-C:\dataall\projects\siteextensions\storagekeyvalidator\storagekeyvalidator\obj\Debug\storagekeyvalidator.csprojAssemblyReference.cache
+C:\dataall\projects\siteextensions\storagekeyvalidator\storagekeyvalidator\bin\Microsoft.Azure.KeyVault.Core.dll
+C:\dataall\projects\siteextensions\storagekeyvalidator\storagekeyvalidator\bin\Microsoft.WindowsAzure.Storage.dll
+C:\dataall\projects\siteextensions\storagekeyvalidator\storagekeyvalidator\bin\Microsoft.Azure.KeyVault.Core.xml
+C:\dataall\projects\siteextensions\storagekeyvalidator\storagekeyvalidator\bin\Microsoft.WindowsAzure.Storage.pdb
+C:\dataall\projects\siteextensions\storagekeyvalidator\storagekeyvalidator\bin\Microsoft.WindowsAzure.Storage.xml
